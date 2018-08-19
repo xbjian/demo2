@@ -1,0 +1,81 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+/*.tag-icon{
+	background: #f69804;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    margin: 10px;
+}*/
+
+
+.navbar-default{
+	box-shadow:2px 2px 10px;
+}
+/*.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover {
+    color: #ef9912;}*/
+
+.table{
+	margin-bottom: 40px;
+}
+.liuyan{
+	margin: 20px auto;
+}
+
+.liuyan .col-md-12 {
+
+    margin-bottom: 5px;
+}	
+	
+	
+	
+.usersc{
+	padding: 20px;
+    border: #ddd 1px solid;
+    border-top: none;
+	margin-bottom:60px;
+}
+	
+.alert{
+	
+	margin:10px 0px 30px 0px;
+}
+	
+#tag{
+	margin-bottom:500px;
+}	
+
+
+#tag .alert{
+	margin:20px 20px 0px 0px;
+}
+	
+
+#footer p{
+	text-align:center;
+	padding:30px;
+}
+#footer{
+	background-color:#666;
+	color:#fff;
+	margin-top:30px;
+}
+
+/*#lianxi,#tubiao,#neirong,#xiazai{
+	position: relative;  
+    top: -50px; // 偏移值  
+    display: block;  
+    height: 0;  
+    overflow: hidden;
+}*/
+
+
+
+
+
+
