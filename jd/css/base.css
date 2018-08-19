@@ -1,0 +1,48 @@
+*,::before,::after{
+	margin: 0px;
+	padding: 0px;
+    box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	
+}
+body{
+	font-size: 14px;
+	color: #333;
+	font-family: "microsoft yahei","microsoft sans serif";
+	
+}
+ul , ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;	
+}
+input,textarea{
+	/* 清除移动端样式 */
+	-webkit-appearance: none;
+    outline: none;
+	border: none;
+	resize: none;
+	
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clearfix::before,.clearfix::after{
+	content: "";
+	display: block;
+	height: 0;
+	line-height: 0;
+	visibility: hidden;
+	clear: both;
+}
+.ml10{
+	margin-left: 10px;
+}
+.mr10{
+	
+	margin-right: 10px;
+}
